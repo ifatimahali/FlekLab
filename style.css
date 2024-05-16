@@ -1,0 +1,81 @@
+*{
+    padding : 10px;
+    margin: 0;
+    font-family:'Quicksand';
+}
+body{
+    background-color: black;
+}
+.continar{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    justify-content:flex-end;
+    font-size: 2em;
+}
+.icon{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:flex-start;
+    border:2px solid black;
+    font-size: 1em;
+    color:white;
+}
+.list{
+    list-style:none;
+    display:inline-flex;
+    gap: 3em;
+    color: aliceblue;
+}
+.purchase{
+    background-color: white;
+    color:black;
+    list-style:disc;
+}
+.text{
+    color:white;
+    text-align: center;
+}
+.title{
+    font-size: 5em;
+}
+.pragraf{
+    font-size: 2em;
+}
+img{
+    display: flex;
+    justify-content: center;
+    width: 30pc;
+}
+.image{
+    flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
+}
+.Main{
+    color:white;
+    font-size: 2em;
+    text-align: center;
+}
+.Cont-last{
+    background-color: white;
+    width: 100vi;
+    height: 50vi;
+}
+.ContLast{
+    color: black;
+    text-align: right;
+    font-size: 3em;
+    border: 2PX solid blue;
+
+}
+.ContLast1{
+    color: black;
+    text-align: right;
+    font-size: 2em;
+}
+.Cont-last{
+    flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
+}
