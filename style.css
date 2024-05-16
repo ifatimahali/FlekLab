@@ -61,19 +61,12 @@ img{
     background-color: white;
     width: 100vi;
     height: 50vi;
+    flex-wrap:wrap;
+    display: flex;
+    justify-content: center;
 }
 .ContLast{
     color: black;
     text-align: right;
     font-size: 3em;
-}
-.ContLast1{
-    color: black;
-    text-align: right;
-    font-size: 2em;
-}
-.Cont-last{
-    flex-wrap:wrap;
-    display: flex;
-    justify-content: center;
 }
