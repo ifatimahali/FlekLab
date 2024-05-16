@@ -70,3 +70,11 @@ img{
     text-align: right;
     font-size: 3em;
 }
+button{
+    background-color: black;
+    width: 90px;
+    height: 50px;
+    color:white;
+    display: flex;
+    align-items: flex-start;
+}
