@@ -69,6 +69,8 @@ img{
     color: black;
     text-align: right;
     font-size: 3em;
+    display: flex;
+    border: 2px solid red;
 }
 button{
     background-color: black;
